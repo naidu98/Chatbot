@@ -2,7 +2,7 @@
 <head>
   <title>My Chatbot</title>
   <style>
-    /* Add your CSS styles here */
+    /* CSS styles here */
   </style>
 </head>
 <body>
